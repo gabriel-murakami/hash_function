@@ -1,7 +1,9 @@
-# Hash Function
+# Hash Functions
 
 ## Método da divisão
 
-a) Todos os valores são múltiplos de 3
+`hash_functions.div_method(key, m)`
 
-b)
+## Método da multiplicação
+
+`hash_functions.multi_method(key, m, a)`
